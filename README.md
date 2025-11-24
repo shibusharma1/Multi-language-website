@@ -1,10 +1,3 @@
-Below is a clean, professional, future-proof **README.md** you can drop directly into your Laravel project.
-It documents **exactly how your multilingual system works (Option A)** with **cookie-based language switching**, **middleware registration via AppServiceProvider**, **no database usage**, and **3-language support**.
-
-You can copy-paste this into `README.md` at your project root.
-
----
-
 # 🌐 Laravel Multilingual System (Cookie-Based, No Database)
 
 This project uses a **lightweight, clean multilingual system** based on:
