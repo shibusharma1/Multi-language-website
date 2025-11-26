@@ -276,4 +276,3 @@ Your Laravel project is now fully multilingual with:
 * ✔ Clean Blade integration
 * ✔ Easy to extend anytime
 
-If you ever want **localized URLs** like `/ne/gallery`, ask — I can generate that system too.
